@@ -14,6 +14,15 @@ This repository will grow with more scripts, including:
 
 ---
 
+### Scripts
+
+| Script Name      | Description                                  | Usage example |
+|------------------|----------------------------------------------|---------------|
+| http_check.py    | Checks a site's HTTPS and security headers.  | `python3 http_check.py https://example.com` |
+| port_scanner.py  | Simple TCP port scanner (lab use only).      | `python3 port_scanner.py 127.0.0.1 --start 1 --end 1024` |
+
+---
+
 ## 💡 About Me
 Hi, I’m Samie 👋  
 Learning cybersecurity, starting with Python scripting and building toward Cloud Security & Red Teaming.  
